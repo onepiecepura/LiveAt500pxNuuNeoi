@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="drawer_menu_width">240dp</dimen>
+    <dimen name="tv_des">18sp</dimen>
+    <dimen name="tv_name">24sp</dimen>
 </resources>
